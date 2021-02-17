@@ -5,6 +5,6 @@ class Sum{
         int c=a;
         int d=b;
         int z=c-d;
-        System.out.println("Substraction result= " + z);
+        System.out.println("Substraction resultftgvygvygv= " + z);
     }
 }
